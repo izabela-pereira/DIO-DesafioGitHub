@@ -1,0 +1,5 @@
+Link de acesso para a documentação do Git:
+https://git-scm.com/doc
+
+Link de acesso para a documentação do GitHub:
+https://docs.github.com/pt
